@@ -34,28 +34,6 @@ npm run dev
 
 🌟 You are all set!
 
-## Attributes
-
-- [Bruno Simon](https://twitter.com/bruno_simon) for his amazing [three-js course](https://threejs-journey.com/).
-- [Marco Ludovico Perego](https://github.com/emmelleppi) for curating huge list of matcaps.
-
-## 🙏 Support
-
-<p align="left">
-<a href="https://www.paypal.me/Sarathy/10"><img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile readme generator"/>
-</a>
-<a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2FSarathy.github.io%2Fgithub-profile-readme-generator">
-<img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2FSarathy.github.io%2Fgithub-profile-readme-generator" alt="tweet github profile readme generator"/>
-</a>
-</p>
-
-<p align="left">
-  <a href='https://ko-fi.com/A0A81XXSX' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for Sarathy' />
-  </a>
-  <a href="https://www.buymeacoffee.com/Sarathy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px" />
-</p>
-
-<hr>
 <p align="center">
 Developed with ❤️ in India 🇮🇳 
 </p>
