@@ -33,7 +33,3 @@ npm run dev
 ```
 
 🌟 You are all set!
-
-<p align="center">
-Developed with ❤️ in India 🇮🇳 
-</p>
