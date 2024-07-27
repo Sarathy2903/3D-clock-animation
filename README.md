@@ -1,8 +1,7 @@
 # 3d-animations
 
-[Rahul's](https://Sarathy.github.io) playground to experiment with everything 3D using three.js.
+[Sarathy's](https://Sarathy.github.io) playground to experiment with everything 3D using three.js.
 
-## List of animations [WIP]
 
 ## 🛠️ Installation Steps
 
