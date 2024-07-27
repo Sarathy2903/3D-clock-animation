@@ -4,8 +4,6 @@
 
 ## List of animations [WIP]
 
-- [3D digital clock](https://3d-animations.vercel.app/digital-clock)
-
 ## 🛠️ Installation Steps
 
 1. Clone the repository
